@@ -1,1 +1,2 @@
-alert("Chào mừng bạn đến với website!");
+alert("Chào mừng bạn đến với cc!");
+
